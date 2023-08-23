@@ -11,8 +11,6 @@
 //========> REQUIRE
 
 require_once "function/function.php";
-require_once "function/gangbang.php";
-require_once "function/threesome.php";
 
 //========> BANNER
 
